@@ -1,7 +1,7 @@
 /*
 Theme Name:       bootville-test
 Theme URI:        http://thefragens.net/
-Version:          1.0.0
+Version:          1.0.1
 Description:      Child theme of Bootville-Lite.
 Author:           Scott Dixon
 Template:         bootville-lite
@@ -9,3 +9,4 @@ Template Version: 1.0.0
 GitHub Theme URI: https://github.com/Zeaksblog/bootville-test/
 GitHub Branch:    master
 */
+@import url('../bootville-lite/style.css');
